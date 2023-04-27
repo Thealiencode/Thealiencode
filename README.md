@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Golden Moses, I', an Experienced and results-oriented Full-stack Developer, having 5+ years of experience in web, mobile, web3 and Dev ops. Offering a strong attention to detail and accuracy, effective problem-solving skills, and possess the important ability to work in fast-paced team environments.
+### <div align="center">I'm Golden Moses, I'm, an Experienced and results-oriented Full-stack Developer, having 5+ years of experience in web, mobile, web3 and Dev ops. Offering a strong attention to detail and accuracy, effective problem-solving skills, and possess the important ability to work in fast-paced team environments.
 </div>  
   
 
